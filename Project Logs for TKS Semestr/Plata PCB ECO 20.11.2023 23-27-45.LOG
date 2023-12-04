@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=1 NewDesignator=SA1
+Added Component: Designator=T1()
+Added Component: Designator=Ê2()
+Added Pin To Net: NetName=NetK1.2_6 Pin=XP3-2
+Added Net: Name=NetK1.2_6
+Added Pin To Net: NetName=NetK1.2_8 Pin=SA1-2
+Added Pin To Net: NetName=NetK1.2_8 Pin=XP4-1
+Added Net: Name=NetK1.2_8
+Added Pin To Net: NetName=NetSA1_4 Pin=SA1-4
+Added Net: Name=NetSA1_4
