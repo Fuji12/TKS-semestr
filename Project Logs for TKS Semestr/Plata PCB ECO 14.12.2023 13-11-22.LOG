@@ -1,0 +1,155 @@
+Added Component: Designator=C1(CAPPR1000-2300X4200)
+Added Component: Designator=C2(CAPPR1000-3600X5200)
+Added Component: Designator=C3(CAP_CERAMIC)
+Added Component: Designator=C4(CAP_CERAMIC)
+Added Component: Designator=FU1(P8029-12)
+Added Component: Designator=K1(Relay RES9)
+Added Component: Designator=R1(RES 2Wt)
+Added Component: Designator=R2(RES 2Wt)
+Added Component: Designator=R3(RES 2Wt)
+Added Component: Designator=R4(RES 2Wt)
+Added Component: Designator=R5(RES 2Wt)
+Added Component: Designator=R6(RES 2Wt)
+Added Component: Designator=R7(RES 2Wt)
+Added Component: Designator=R8(RES 2Wt)
+Added Component: Designator=R9(RES 2Wt)
+Added Component: Designator=SA1(NR01103ANG13-1C)
+Added Component: Designator=T1(T60403-D4097-X052)
+Added Component: Designator=U1(DIP-4, 7,5mm)
+Added Component: Designator=VD1(DO-35)
+Added Component: Designator=VD2(GNL-3012GD)
+Added Component: Designator=VD3(GBJ)
+Added Component: Designator=VT1(TO-92AA-P152)
+Added Component: Designator=VT2(TO-126-v)
+Added Component: Designator=VT3(TO-18)
+Added Component: Designator=VT4(TO-92AA-P152)
+Added Component: Designator=VT5(TO-126-v)
+Added Component: Designator=XP1(PHOENIX_1715721)
+Added Component: Designator=XP2(PHOENIX_1715721)
+Added Component: Designator=XP3(PHOENIX_1715721)
+Added Component: Designator=XP4(PHOENIX_1715721)
+Added Component: Designator=Ê2(Relay RES9)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_2 Pin=C4-2
+Added Pin To Net: NetName=NetFU1_1 Pin=FU1-1
+Added Pin To Net: NetName=NetFU1_2 Pin=FU1-2
+Added Pin To Net: NetName=NetC1_1 Pin=K1-1
+Added Pin To Net: NetName=NetK1_2 Pin=K1-2
+Added Pin To Net: NetName=NetC1_1 Pin=K1-3
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetC1_2 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR3_2 Pin=R8-1
+Added Pin To Net: NetName=NetC3_2 Pin=R8-2
+Added Pin To Net: NetName=NetC4_1 Pin=R9-1
+Added Pin To Net: NetName=NetC3_1 Pin=R9-2
+Added Pin To Net: NetName=NetSA1_4 Pin=SA1-4
+Added Pin To Net: NetName=NetT1_1 Pin=T1-1
+Added Pin To Net: NetName=NetFU1_2 Pin=T1-3
+Added Pin To Net: NetName=NetSA1_4 Pin=T1-4
+Added Pin To Net: NetName=NetR6_1 Pin=U1-2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetK1_2 Pin=VD1-1
+Added Pin To Net: NetName=NetC1_1 Pin=VD1-2
+Added Pin To Net: NetName=NetR7_1 Pin=VD2-2
+Added Pin To Net: NetName=NetC1_1 Pin=VD3-1
+Added Pin To Net: NetName=NetT1_1 Pin=VD3-2
+Added Pin To Net: NetName=NetT1_2 Pin=VD3-3
+Added Pin To Net: NetName=NetC1_2 Pin=VD3-4
+Added Pin To Net: NetName=NetC1_1 Pin=VT1-1
+Added Pin To Net: NetName=NetU1_3 Pin=VT1-2
+Added Pin To Net: NetName=NetR2_2 Pin=VT2-2
+Added Pin To Net: NetName=NetC3_2 Pin=VT3-1
+Added Pin To Net: NetName=NetR3_2 Pin=VT3-2
+Added Pin To Net: NetName=NetR2_2 Pin=VT3-3
+Added Pin To Net: NetName=NetC1_2 Pin=VT4-1
+Added Pin To Net: NetName=NetK1_2 Pin=VT4-3
+Added Pin To Net: NetName=NetR5_2 Pin=VT5-1
+Added Pin To Net: NetName=NetC3_2 Pin=VT5-3
+Added Pin To Net: NetName=NetC3_2 Pin=XP1-1
+Added Pin To Net: NetName=NetFU1_1 Pin=XP2-1
+Added Pin To Net: NetName=NetC1_2 Pin=XP3-2
+Added Pin To Net: NetName=NetFU1_1 Pin=XP4-1
+Added Pin To Net: NetName=NetC1_2 Pin=Ê2-2
+Added Pin To Net: NetName=NetC3_1 Pin=Ê2-5
+Added Pin To Net: NetName=NetC1_2 Pin=Ê2-6
+Added Pin To Net: NetName=NetC4_1 Pin=Ê2-8
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R4-2
+Added Pin To Net: NetName=NetC2_1 Pin=VT4-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetK1_4 Pin=K1-4
+Added Pin To Net: NetName=NetK1_4 Pin=VD2-1
+Added Net: Name=NetK1_4
+Added Pin To Net: NetName=NetK1_5 Pin=K1-5
+Added Pin To Net: NetName=NetK1_5 Pin=Ê2-1
+Added Net: Name=NetK1_5
+Added Pin To Net: NetName=NetK1_6 Pin=K1-6
+Added Pin To Net: NetName=NetK1_6 Pin=SA1-1
+Added Pin To Net: NetName=NetK1_6 Pin=XP4-2
+Added Net: Name=NetK1_6
+Added Pin To Net: NetName=NetK1_8 Pin=K1-8
+Added Pin To Net: NetName=NetK1_8 Pin=SA1-2
+Added Pin To Net: NetName=NetK1_8 Pin=XP2-2
+Added Net: Name=NetK1_8
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-4
+Added Pin To Net: NetName=NetR1_1 Pin=XP1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=R3-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VT1-3
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-1
+Added Pin To Net: NetName=NetR5_1 Pin=VT2-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetVT2_3 Pin=VT2-3
+Added Pin To Net: NetName=NetVT2_3 Pin=VT5-2
+Added Net: Name=NetVT2_3
+Added Pin To Net: NetName=NetXP3_1 Pin=XP3-1
+Added Pin To Net: NetName=NetXP3_1 Pin=Ê2-3
+Added Net: Name=NetXP3_1
+Added Member To Class: ClassName=Schema Member=Component C1 1000 ìê õ 63Â
+Added Member To Class: ClassName=Schema Member=Component C2 470ìê õ 6Â
+Added Member To Class: ClassName=Schema Member=Component C3 1ìê
+Added Member To Class: ClassName=Schema Member=Component C4 1ìê
+Added Member To Class: ClassName=Schema Member=Component FU1 0.125À
+Added Member To Class: ClassName=Schema Member=Component K1 REL Simple
+Added Member To Class: ClassName=Schema Member=Component R1 2.4ì
+Added Member To Class: ClassName=Schema Member=Component R2 510ê
+Added Member To Class: ClassName=Schema Member=Component R3 3ì
+Added Member To Class: ClassName=Schema Member=Component R4 15ê
+Added Member To Class: ClassName=Schema Member=Component R5 1ê
+Added Member To Class: ClassName=Schema Member=Component R6 15ê
+Added Member To Class: ClassName=Schema Member=Component R7 1.5ê
+Added Member To Class: ClassName=Schema Member=Component R8 510ê
+Added Member To Class: ClassName=Schema Member=Component R9 5.1ì
+Added Member To Class: ClassName=Schema Member=Component SA1 3-positoin switch
+Added Member To Class: ClassName=Schema Member=Component T1
+Added Member To Class: ClassName=Schema Member=Component U1 ÀÎÄ130À
+Added Member To Class: ClassName=Schema Member=Component VD1 ÊÄ521À
+Added Member To Class: ClassName=Schema Member=Component VD2 ÀË307Â
+Added Member To Class: ClassName=Schema Member=Component VD3 ÊÄ212À
+Added Member To Class: ClassName=Schema Member=Component VT1 ÊÒ3107Ê
+Added Member To Class: ClassName=Schema Member=Component VT2 ÊÒ940À
+Added Member To Class: ClassName=Schema Member=Component VT3 ÊÒ3102À
+Added Member To Class: ClassName=Schema Member=Component VT4 ÊÒ829À
+Added Member To Class: ClassName=Schema Member=Component VT5 ÊÒ940À
+Added Member To Class: ClassName=Schema Member=Component XP1 Connector2-long
+Added Member To Class: ClassName=Schema Member=Component XP2 ConnectorOP
+Added Member To Class: ClassName=Schema Member=Component XP3
+Added Member To Class: ClassName=Schema Member=Component XP4
+Added Member To Class: ClassName=Schema Member=Component Ê2 Rel2connected
+Added Room: Name=Schema
